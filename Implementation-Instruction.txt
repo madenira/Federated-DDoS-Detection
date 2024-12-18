@@ -26,7 +26,7 @@ This project implements a federated learning approach to detect DDoS attacks in 
 1. Navigate to the project directory.
 2. Run the main script in Visual studio Code using the environment built in conda:
     ```bash
-    python Complete_code
+    python Complete_code.py
     ```
 
 ### Step 3: Output
